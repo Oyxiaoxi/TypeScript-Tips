@@ -5,3 +5,4 @@
 - Dynamic addition of ids 
 - Combine all parameters into one object 
 - Reduce duplicate code usage
+- Function Overloading
